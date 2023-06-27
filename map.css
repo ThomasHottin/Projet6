@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(107, 107, 107);
+}
+
+.img{
+  margin-top: 50px;
+}
+
+.jours-container ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+}
+
+.jours-container li {
+  margin-right: 10px;
+}
+
+.jours-container li a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
